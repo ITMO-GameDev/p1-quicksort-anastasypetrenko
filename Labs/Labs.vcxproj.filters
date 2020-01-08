@@ -15,18 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Array.h">
+    <ClInclude Include="src\anastasy_alloc.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
     <ClInclude Include="src\catch.hpp">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="src\List.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\tests.cpp">
+    <ClCompile Include="src\test.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

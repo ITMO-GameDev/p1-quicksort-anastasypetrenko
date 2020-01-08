@@ -19,12 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Array.h" />
+    <ClInclude Include="src\anastasy_alloc.h" />
     <ClInclude Include="src\catch.hpp" />
-    <ClInclude Include="src\List.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\tests.cpp" />
+    <ClCompile Include="src\test.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
